@@ -1,0 +1,1 @@
+This project has a new home on [GitHub](https://github.com/alexei/sprintf.js). Source, examples and documentation can be found there.
